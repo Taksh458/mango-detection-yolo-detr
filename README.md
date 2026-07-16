@@ -1,5 +1,5 @@
 # Mango Detection with YOLO and DETR
-
+[![Mango detection tests](https://github.com/Taksh458/mango-detection-yolo-detr/actions/workflows/tests.yml/badge.svg)](https://github.com/Taksh458/mango-detection-yolo-detr/actions/workflows/tests.yml)
 A reproducible portfolio structure for comparing a one-stage YOLO detector with a Transformer-based DETR detector on annotated orchard images.
 
 ## What this repository demonstrates
