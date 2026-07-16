@@ -1,0 +1,16 @@
+{
+  "data_type": "synthetic_pipeline_demo",
+  "warning": "Do not report these values as real model performance.",
+  "models": {
+    "YOLO demo": {
+      "precision": 0.78,
+      "recall": 0.74,
+      "mAP50": 0.76
+    },
+    "DETR demo": {
+      "precision": 0.75,
+      "recall": 0.79,
+      "mAP50": 0.77
+    }
+  }
+}
